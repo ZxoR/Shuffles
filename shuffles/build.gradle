@@ -1,5 +1,11 @@
 apply plugin: 'com.android.library'
 
+ext {
+    PUBLISH_GROUP_ID = 'kael.shuffles'
+    PUBLISH_ARTIFACT_ID = 'shuffles'
+    PUBLISH_VERSION = '1.0'
+}
+
 android {
     compileSdkVersion 23
     buildToolsVersion "23.0.2"
@@ -10,12 +16,7 @@ android {
         versionCode 1
         versionName "1.0"
     }
-    buildTypes {
-        release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-        }
-    }
+
 }
 
 dependencies {
@@ -23,3 +24,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.1.1'
 }
+
+apply from: 'https://raw.githubusercontent.com/blundell/release-android-library/master/android-release-aar.gradle'

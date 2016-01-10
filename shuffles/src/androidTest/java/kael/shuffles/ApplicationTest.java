@@ -4,9 +4,6 @@ import android.app.Application;
 import android.test.ApplicationTestCase;
 import android.util.Log;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * <a href="http://d.android.com/tools/testing/testing_android.html">Testing Fundamentals</a>
  */
@@ -18,6 +15,16 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
 
     public void testShuffles() throws Exception {
         Shuffles<String> stringShuffles = new Shuffles<>();
+
+
+        stringShuffles.setOnShufflesItemPositionChangeListener(new Shuffles.OnShufflesItemPositionChangeListener() {
+            @Override
+            public void OnShufflesItemPositionChange(OnShufflesItemPositionChangeArgs args) {
+                Log.i("SHUFFLES", "SWAPPED: " + args.getFromPos() + " -> " + args.getToPos() + " @ " + args.getBeforeSwap().toString() + " -> " + args.getAfterSwap().toString());
+            }
+        });
+
+
         stringShuffles.add("a");
         stringShuffles.add("b");
         stringShuffles.add("c");
@@ -25,18 +32,9 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
         stringShuffles.add("e");
         stringShuffles.add("f");
 
-        stringShuffles.setOnItemPositionChangeListener(new Shuffles.OnShufflesItemPositionChangeListener() {
-            @Override
-            public void OnShufflesItemPositionChange(OnShufflesItemPositionChangeArgs args) {
-                Log.i("testShuffles", "Got args: " + args.getBeforeSwap().get(0).toString() + "     <<<<---->>>>      " + args.getAfterSwap().get(0).toString());
-            }
-        });
+        stringShuffles.roll();
 
-        stringShuffles.insideRoll();
-
-        List<String> randomStrings = stringShuffles.pick(3);
-
-        randomStrings.size();
+        stringShuffles.roll();
 
     }
 }

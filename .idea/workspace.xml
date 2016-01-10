@@ -1,10 +1,616 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="shuffles" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a752f89-4b21-44e1-8f50-9468f6d11f87" name="Default" comment="Init.">
+    <list default="true" id="7a752f89-4b21-44e1-8f50-9468f6d11f87" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/generated/source/buildConfig/androidTest/debug/kael/shuffles/test/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/generated/source/r/androidTest/debug/android/support/v7/appcompat/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/generated/source/r/androidTest/debug/kael/shuffles/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/generated/source/r/androidTest/debug/kael/shuffles/test/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-af.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-am.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-ar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-az-rAZ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-bg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-bn-rBD.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-ca.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-cs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-da.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-de.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-el.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-en-rAU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-en-rGB.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-en-rIN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-es-rUS.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-es.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-et-rEE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-eu-rES.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-fa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-fi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-fr-rCA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-fr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-gl-rES.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-gu-rIN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-h320dp-v13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-h720dp-v13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-hdpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-hi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-hr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-hu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-hy-rAM.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-in.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-is-rIS.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-it.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-iw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-ja.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-ka-rGE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-kk-rKZ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-km-rKH.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-kn-rIN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-ko.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-ky-rKG.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-land.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-large-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-ldltr-v21.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-ldrtl-v23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-lo-rLA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-lt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-lv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-mk-rMK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-ml-rIN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-mn-rMN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-mr-rIN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-ms-rMY.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-my-rMM.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-nb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-ne-rNP.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-nl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-pa-rIN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-pl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-port.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-pt-rBR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-pt-rPT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-pt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-ro.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-ru.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-si-rLK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-sk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-sl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-sq-rAL.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-sr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-sv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-sw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-sw600dp-v13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-ta-rIN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-te-rIN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-th.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-tl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-tr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-uk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-ur-rPK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-uz-rUZ.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-v11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-v12.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-v14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-v17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-v18.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-v21.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-v22.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-v23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-vi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-w360dp-v13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-w480dp-v13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-w500dp-v13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-w600dp-v13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-w720dp-v13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-xlarge-land-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-xlarge-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-zh-rCN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-zh-rHK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-zh-rTW.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values-zu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/multi/values.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/single/anim.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/single/color-v11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/single/color-v23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/single/color.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/single/drawable-ldrtl-hdpi-v17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/single/drawable-ldrtl-mdpi-v17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/single/drawable-ldrtl-xhdpi-v17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/single/drawable-ldrtl-xxhdpi-v17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/single/drawable-ldrtl-xxxhdpi-v17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/single/drawable-mdpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/single/drawable-v21.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/single/drawable-v23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/single/drawable-xhdpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/single/drawable-xxhdpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/single/drawable-xxxhdpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/single/drawable.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/blame/res/androidTest/debug/single/layout.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/android/support/v7/appcompat/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/android/support/v7/appcompat/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/android/support/v7/appcompat/R$bool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/android/support/v7/appcompat/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/android/support/v7/appcompat/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/android/support/v7/appcompat/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/android/support/v7/appcompat/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/android/support/v7/appcompat/R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/android/support/v7/appcompat/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/android/support/v7/appcompat/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/android/support/v7/appcompat/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/android/support/v7/appcompat/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/android/support/v7/appcompat/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/ApplicationTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/ApplicationTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/R$bool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/test/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/test/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/test/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/test/R$bool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/test/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/test/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/test/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/test/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/test/R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/test/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/test/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/test/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/test/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/androidTest/debug/kael/shuffles/test/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/incremental/mergeDebugAndroidTestJniLibFolders/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/pre-dexed/androidTest/debug/classes_383b01d471ba43ab93a7460acc5c56a744a80b39.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/pre-dexed/androidTest/debug/com.android.support-appcompat-v7-23.1.1_409a1b719fde2cc088af24c45b09d7afffd4b35e.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/pre-dexed/androidTest/debug/com.android.support-support-v4-23.1.1_ad0497ac744a42a880378c488fd868a4be44f7f4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/pre-dexed/androidTest/debug/debug_412e648d90de8c6e670e51eca04910ac8d2dfb38.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/pre-dexed/androidTest/debug/internal_impl-23.1.1_c86852cd9727dc3a6b2e0cbcb28e3c2d787c221f.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/pre-dexed/androidTest/debug/support-annotations-23.1.1_0ad742e531f340a32c3c796d2478b02a1cf886c7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/color-v23/abc_color_highlight_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/color/abc_background_cache_hint_selector_material_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/color/abc_background_cache_hint_selector_material_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/color/abc_search_url_text.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-hdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-mdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_list_longpressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-v23/abc_control_background_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_borderless_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_check_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_colored_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_default_mtrl_shape.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_radio_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_cab_background_internal_bg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_cab_background_top_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_dialog_material_background_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_dialog_material_background_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_edit_text_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_item_background_holo_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_item_background_holo_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_background_transition_holo_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_background_transition_holo_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_holo_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_holo_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_full_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_thumb_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_track_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_spinner_textfield_background_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_switch_thumb_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_tab_indicator_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_text_cursor_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/drawable/abc_textfield_search_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_title_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_up_container.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_view_list_nav_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_action_menu_item_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_action_menu_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_action_mode_bar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_action_mode_close_item_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_activity_chooser_view.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_activity_chooser_view_list_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_alert_dialog_button_bar_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_alert_dialog_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_dialog_title_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_expanded_menu_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_checkbox.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_icon.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_radio.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_popup_menu_item_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_content_include.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_simple.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_simple_overlay_action_mode.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_toolbar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_search_dropdown_item_icons_2line.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_search_view.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/abc_select_dialog_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/notification_media_action.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/notification_media_cancel_action.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media_narrow.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/notification_template_lines.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/notification_template_media.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/notification_template_part_chronometer.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/notification_template_part_time.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_item_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_multichoice_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_singlechoice_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/layout/support_simple_spinner_dropdown_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-af/values-af.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-am/values-am.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-ar/values-ar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-az-rAZ/values-az-rAZ.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-bg/values-bg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-bn-rBD/values-bn-rBD.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-ca/values-ca.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-cs/values-cs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-da/values-da.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-de/values-de.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-el/values-el.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-en-rAU/values-en-rAU.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-en-rGB/values-en-rGB.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-en-rIN/values-en-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-es-rUS/values-es-rUS.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-es/values-es.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-et-rEE/values-et-rEE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-eu-rES/values-eu-rES.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-fa/values-fa.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-fi/values-fi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-fr-rCA/values-fr-rCA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-fr/values-fr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-gl-rES/values-gl-rES.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-gu-rIN/values-gu-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-h320dp-v13/values-h320dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-h720dp-v13/values-h720dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-hdpi-v4/values-hdpi-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-hi/values-hi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-hr/values-hr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-hu/values-hu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-hy-rAM/values-hy-rAM.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-in/values-in.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-is-rIS/values-is-rIS.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-it/values-it.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-iw/values-iw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-ja/values-ja.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-ka-rGE/values-ka-rGE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-kk-rKZ/values-kk-rKZ.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-km-rKH/values-km-rKH.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-kn-rIN/values-kn-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-ko/values-ko.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-ky-rKG/values-ky-rKG.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-land/values-land.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-large-v4/values-large-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-ldltr-v21/values-ldltr-v21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-ldrtl-v23/values-ldrtl-v23.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-lo-rLA/values-lo-rLA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-lt/values-lt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-lv/values-lv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-mk-rMK/values-mk-rMK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-ml-rIN/values-ml-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-mn-rMN/values-mn-rMN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-mr-rIN/values-mr-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-ms-rMY/values-ms-rMY.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-my-rMM/values-my-rMM.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-nb/values-nb.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-ne-rNP/values-ne-rNP.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-nl/values-nl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-pa-rIN/values-pa-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-pl/values-pl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-port/values-port.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-pt/values-pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-ro/values-ro.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-ru/values-ru.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-si-rLK/values-si-rLK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-sk/values-sk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-sl/values-sl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-sq-rAL/values-sq-rAL.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-sr/values-sr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-sv/values-sv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-sw/values-sw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-ta-rIN/values-ta-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-te-rIN/values-te-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-th/values-th.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-tl/values-tl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-tr/values-tr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-uk/values-uk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-ur-rPK/values-ur-rPK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-uz-rUZ/values-uz-rUZ.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-v11/values-v11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-v12/values-v12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-v14/values-v14.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-v17/values-v17.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-v18/values-v18.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-v21/values-v21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-v22/values-v22.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-v23/values-v23.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-vi/values-vi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-w360dp-v13/values-w360dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-w480dp-v13/values-w480dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-w500dp-v13/values-w500dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-w600dp-v13/values-w600dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-w720dp-v13/values-w720dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-zh-rHK/values-zh-rHK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values-zu/values-zu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/merged/androidTest/debug/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/symbols/androidTest/debug/R.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shuffles/build/outputs/apk/shuffles-debug-androidTest-unaligned.apk" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/debug/kael/shuffles/Shuffles$OnShufflesItemPositionChangeListener$OnShufflesItemPositionChangeArgs.class" afterPath="$PROJECT_DIR$/shuffles/build/intermediates/classes/debug/kael/shuffles/Shuffles$OnShufflesItemPositionChangeListener$OnShufflesItemPositionChangeArgs.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/debug/kael/shuffles/Shuffles$OnShufflesItemPositionChangeListener.class" afterPath="$PROJECT_DIR$/shuffles/build/intermediates/classes/debug/kael/shuffles/Shuffles$OnShufflesItemPositionChangeListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/classes/debug/kael/shuffles/Shuffles.class" afterPath="$PROJECT_DIR$/shuffles/build/intermediates/classes/debug/kael/shuffles/Shuffles.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shuffles/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/shuffles/build/intermediates/bundles/debug/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shuffles/build/outputs/aar/shuffles-debug.aar" afterPath="$PROJECT_DIR$/shuffles/build/outputs/aar/shuffles-debug.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shuffles/src/androidTest/java/kael/shuffles/ApplicationTest.java" afterPath="$PROJECT_DIR$/shuffles/src/androidTest/java/kael/shuffles/ApplicationTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shuffles/src/main/java/kael/shuffles/Shuffles.java" afterPath="$PROJECT_DIR$/shuffles/src/main/java/kael/shuffles/Shuffles.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shuffles/build.gradle" afterPath="$PROJECT_DIR$/shuffles/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Shuffles.iws" />
@@ -24,28 +630,73 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="Shuffles" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Shuffles.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Shuffles.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shuffles/src/main/java/kael/shuffles/Shuffles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.26041666">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
+                <element signature="e#726#727#0" expanded="true" />
+                <element signature="e#765#766#0" expanded="true" />
+                <element signature="e#811#812#0" expanded="true" />
+                <element signature="e#848#849#0" expanded="true" />
+                <element signature="e#892#893#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApplicationTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="local.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shuffles/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shuffles/src/androidTest/java/kael/shuffles/ApplicationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.052083332">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -62,6 +713,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -151,6 +805,18 @@
                 <option name="description" value="Displays the Android dependencies of the project." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="androidDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="androidJavadocs" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="androidJavadocsJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="androidSourcesJar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles all variants of all applications and secondary packages." />
@@ -388,6 +1054,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="generateDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -684,8 +1354,17 @@
                 <option name="name" value="uninstallDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Uploads all artifacts belonging to configuration ':shuffles:archives'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="uploadArchives" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="validateDebugSigning" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="zipRelease" />
               </ExternalTaskPojo>
             </list>
           </value>
@@ -697,6 +1376,18 @@
                 <option name="description" value="Displays the Android dependencies of the project." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/shuffles" />
                 <option name="name" value="androidDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/shuffles" />
+                <option name="name" value="androidJavadocs" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/shuffles" />
+                <option name="name" value="androidJavadocsJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/shuffles" />
+                <option name="name" value="androidSourcesJar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles all variants of all applications and secondary packages." />
@@ -954,6 +1645,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/shuffles" />
                 <option name="name" value="generateDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/shuffles" />
+                <option name="name" value="generateRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/shuffles" />
@@ -1275,8 +1970,17 @@
                 <option name="name" value="uninstallDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Uploads all artifacts belonging to configuration ':shuffles:archives'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/shuffles" />
+                <option name="name" value="uploadArchives" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/shuffles" />
                 <option name="name" value="validateDebugSigning" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/shuffles" />
+                <option name="name" value="zipRelease" />
               </ExternalTaskPojo>
             </list>
           </value>
@@ -1285,7 +1989,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4357094192311" />
+        <entry key="$PROJECT_DIR$" value="4357259638397" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1302,8 +2006,14 @@
                           <list>
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/1.5.0/gradle-1.5.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/1.5.0/gradle-1.5.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jfrog.bintray.gradle/gradle-bintray-plugin/1.4/37e7780aac43d6a2c643d315f8015c7244d34907/gradle-bintray-plugin-1.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jfrog.bintray.gradle/gradle-bintray-plugin/1.4/c9c2779b543eec72706349967debdeeefd0be46f/gradle-bintray-plugin-1.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dcendents/android-maven-gradle-plugin/1.3/c284e22e7c691774d2240e419ac2a744e80d7e84/android-maven-gradle-plugin-1.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dcendents/android-maven-gradle-plugin/1.3/56f44bee48445bcb6b1f1e0f04576de3fee13426/android-maven-gradle-plugin-1.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/1.5.0/gradle-core-1.5.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/1.5.0/gradle-core-1.5.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy.modules.http-builder/http-builder/0.7.2/f1860181de06236f28f3f247aed57fa4631016d8/http-builder-0.7.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy.modules.http-builder/http-builder/0.7.2/323092cd786480311c1cf693770f9e6fc20a8bef/http-builder-0.7.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.core/0.7.4.201502262128/org.jacoco.core-0.7.4.201502262128-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.core/0.7.4.201502262128/org.jacoco.core-0.7.4.201502262128.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/transform-api/1.5.0/transform-api-1.5.0-sources.jar" />
@@ -1315,6 +2025,13 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/24.5.0/lint-24.5.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/1.5.0/builder-1.5.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/1.5.0/builder-1.5.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.2.1/6b27312b9c28b59aaeb6c21f3490045690c703d3/httpclient-4.2.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.2.1/b69bd03af60bf487b3ae1209a644ecac587bf6fc/httpclient-4.2.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.json-lib/json-lib/2.3/f35340c0a0380141f62c72b76c8fb4bfa638d8c1/json-lib-2.3-jdk15.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.nekohtml/nekohtml/1.9.16/2d40ea21fae95418331ddc66efb6744a38bf59a/nekohtml-1.9.16-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.nekohtml/nekohtml/1.9.16/61e35204e5a8fdb864152f84e2e3b33ab56f50ab/nekohtml-1.9.16.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xml-resolver/xml-resolver/1.2/6b72432ea1c5296783007365bb7c9a6b39dfb730/xml-resolver-1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xml-resolver/xml-resolver/1.2/3d0f97750b3a03e0971831566067754ba4bfd68c/xml-resolver-1.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0-sources.jar" />
@@ -1363,6 +2080,21 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jill/jill-api/0.9.0/jill-api-0.9.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.1/3f6caf5334fa83607b82e2f32dd128a9d8a0ea5e/httpcore-4.2.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.1/2d503272bf0a8b5f92d64db78b4ba9abbaccc6fd/httpcore-4.2.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/61e9f9d11fe3e12ec62f633006e99d75fd7f19c8/commons-codec-1.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/b7f0fc8f61ecadeb3695f0b9464755eee44374d4/commons-codec-1.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.8.0/2818502bbb50bbcbd3f57e92a2bfe4d496f37688/commons-beanutils-1.8.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.8.0/c651d5103c649c12b20d53731643e5fffceb536/commons-beanutils-1.8.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.1/fa095ef874374e5b2a11f8b06c26a5d68c7cb3a4/commons-collections-3.2.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.1/761ea405b9b37ced573d2df0d1e3a4e0f9edc668/commons-collections-3.2.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.4/2b8c4b3035e45520ef42033e823c7d33e4b4402c/commons-lang-2.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.4/16313e02a793435009f1e458fa4af5d879f6fb11/commons-lang-2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.ezmorph/ezmorph/1.0.6/298992280d62b944afd0ae9bfe3329f5487dd434/ezmorph-1.0.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.ezmorph/ezmorph/1.0.6/1e55d2a0253ea37745d33062852fd2c90027432/ezmorph-1.0.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xerces/xercesImpl/2.9.1/1136d197e2755bbde296ceee217ec5fe2917477b/xercesImpl-2.9.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/tunnelvisionlabs/antlr4-runtime/4.5/antlr4-runtime-4.5.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/tunnelvisionlabs/antlr4-annotations/4.5/antlr4-annotations-4.5.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/ST4/4.0.8/ST4-4.0.8.jar" />
@@ -1370,8 +2102,6 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/24.5.0/lint-api-24.5.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/24.5.0/lint-api-24.5.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/24.5.0/layoutlib-api-24.5.0-sources.jar" />
@@ -1387,12 +2117,6 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/abego/treelayout/org.abego.treelayout.core/1.0.1/org.abego.treelayout.core-1.0.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
                           </list>
@@ -1517,8 +2241,14 @@
                           <list>
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/1.5.0/gradle-1.5.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/1.5.0/gradle-1.5.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jfrog.bintray.gradle/gradle-bintray-plugin/1.4/37e7780aac43d6a2c643d315f8015c7244d34907/gradle-bintray-plugin-1.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jfrog.bintray.gradle/gradle-bintray-plugin/1.4/c9c2779b543eec72706349967debdeeefd0be46f/gradle-bintray-plugin-1.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dcendents/android-maven-gradle-plugin/1.3/c284e22e7c691774d2240e419ac2a744e80d7e84/android-maven-gradle-plugin-1.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dcendents/android-maven-gradle-plugin/1.3/56f44bee48445bcb6b1f1e0f04576de3fee13426/android-maven-gradle-plugin-1.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/1.5.0/gradle-core-1.5.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/1.5.0/gradle-core-1.5.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy.modules.http-builder/http-builder/0.7.2/f1860181de06236f28f3f247aed57fa4631016d8/http-builder-0.7.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy.modules.http-builder/http-builder/0.7.2/323092cd786480311c1cf693770f9e6fc20a8bef/http-builder-0.7.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.core/0.7.4.201502262128/org.jacoco.core-0.7.4.201502262128-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.core/0.7.4.201502262128/org.jacoco.core-0.7.4.201502262128.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/transform-api/1.5.0/transform-api-1.5.0-sources.jar" />
@@ -1530,6 +2260,13 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/24.5.0/lint-24.5.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/1.5.0/builder-1.5.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/1.5.0/builder-1.5.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.2.1/6b27312b9c28b59aaeb6c21f3490045690c703d3/httpclient-4.2.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.2.1/b69bd03af60bf487b3ae1209a644ecac587bf6fc/httpclient-4.2.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.json-lib/json-lib/2.3/f35340c0a0380141f62c72b76c8fb4bfa638d8c1/json-lib-2.3-jdk15.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.nekohtml/nekohtml/1.9.16/2d40ea21fae95418331ddc66efb6744a38bf59a/nekohtml-1.9.16-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.nekohtml/nekohtml/1.9.16/61e35204e5a8fdb864152f84e2e3b33ab56f50ab/nekohtml-1.9.16.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xml-resolver/xml-resolver/1.2/6b72432ea1c5296783007365bb7c9a6b39dfb730/xml-resolver-1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xml-resolver/xml-resolver/1.2/3d0f97750b3a03e0971831566067754ba4bfd68c/xml-resolver-1.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0-sources.jar" />
@@ -1578,6 +2315,21 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jill/jill-api/0.9.0/jill-api-0.9.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.1/3f6caf5334fa83607b82e2f32dd128a9d8a0ea5e/httpcore-4.2.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.1/2d503272bf0a8b5f92d64db78b4ba9abbaccc6fd/httpcore-4.2.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/61e9f9d11fe3e12ec62f633006e99d75fd7f19c8/commons-codec-1.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/b7f0fc8f61ecadeb3695f0b9464755eee44374d4/commons-codec-1.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.8.0/2818502bbb50bbcbd3f57e92a2bfe4d496f37688/commons-beanutils-1.8.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.8.0/c651d5103c649c12b20d53731643e5fffceb536/commons-beanutils-1.8.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.1/fa095ef874374e5b2a11f8b06c26a5d68c7cb3a4/commons-collections-3.2.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.1/761ea405b9b37ced573d2df0d1e3a4e0f9edc668/commons-collections-3.2.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.4/2b8c4b3035e45520ef42033e823c7d33e4b4402c/commons-lang-2.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.4/16313e02a793435009f1e458fa4af5d879f6fb11/commons-lang-2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.ezmorph/ezmorph/1.0.6/298992280d62b944afd0ae9bfe3329f5487dd434/ezmorph-1.0.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.ezmorph/ezmorph/1.0.6/1e55d2a0253ea37745d33062852fd2c90027432/ezmorph-1.0.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xerces/xercesImpl/2.9.1/1136d197e2755bbde296ceee217ec5fe2917477b/xercesImpl-2.9.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/tunnelvisionlabs/antlr4-runtime/4.5/antlr4-runtime-4.5.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/tunnelvisionlabs/antlr4-annotations/4.5/antlr4-annotations-4.5.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/ST4/4.0.8/ST4-4.0.8.jar" />
@@ -1585,8 +2337,6 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/24.5.0/lint-api-24.5.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/24.5.0/lint-api-24.5.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/24.5.0/layoutlib-api-24.5.0-sources.jar" />
@@ -1602,12 +2352,6 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/abego/treelayout/org.abego.treelayout.core/1.0.1/org.abego.treelayout.core-1.0.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
                             <option value="$USER_HOME$/Android/extras/android/m2repository/com/android/support/appcompat-v7/23.1.1/appcompat-v7-23.1.1.aar" />
@@ -1754,6 +2498,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/shuffles/src/androidTest/java/kael/shuffles/ApplicationTest.java" />
+        <option value="$PROJECT_DIR$/local.properties" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/shuffles/build.gradle" />
         <option value="$PROJECT_DIR$/shuffles/src/main/java/kael/shuffles/Shuffles.java" />
       </list>
     </option>
@@ -1798,7 +2545,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
@@ -1806,6 +2552,10 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Shuffles" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1852,17 +2602,18 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="android.sdk.path" value="$USER_HOME$/Android" />
     <property name="recentsLimit" value="5" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="LGD85539e62d40" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_6_API_23" />
   </component>
   <component name="RunManager" selected="Android Tests.ApplicationTest">
@@ -1934,6 +2685,15 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -2050,11 +2810,18 @@
       <option name="number" value="Default" />
       <updated>1452364693040</updated>
     </task>
+    <task id="LOCAL-00001" summary="Init.">
+      <created>1452433090862</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1452433090862</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="24" width="1221" height="1000" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2064,15 +2831,16 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24936171" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24936171" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2084,7 +2852,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2099,12 +2866,18 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/shuffles/src/androidTest/java/kael/shuffles/ApplicationTest.java</url>
-          <line>38</line>
+          <line>34</line>
           <properties />
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shuffles/src/androidTest/java/kael/shuffles/ApplicationTest.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -2112,9 +2885,43 @@
     <entry file="file://$PROJECT_DIR$/shuffles/src/main/java/kael/shuffles/Shuffles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#848#849#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shuffles/src/androidTest/java/kael/shuffles/ApplicationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="62" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shuffles/src/main/java/kael/shuffles/Shuffles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="38" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#848#849#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2139,9 +2946,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#929#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2167,21 +2971,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shuffles/src/main/java/kael/shuffles/Shuffles.java">
+    <entry file="file://$PROJECT_DIR$/shuffles/src/androidTest/java/kael/shuffles/ApplicationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shuffles/src/androidTest/java/kael/shuffles/ApplicationTest.java">
+    <entry file="file://$PROJECT_DIR$/local.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.052083332">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shuffles/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shuffles/src/main/java/kael/shuffles/Shuffles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26041666">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#848#849#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

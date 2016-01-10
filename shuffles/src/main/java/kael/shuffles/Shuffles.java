@@ -13,19 +13,28 @@ import java.util.Random;
  */
 public class Shuffles<T> extends ArrayList<T> {
 
-    public interface OnShufflesItemPositionChangeListener {
-        class OnShufflesItemPositionChangeArgs {
-            private List<?> beforeSwap;
-            private List<?> afterSwap;
+    public interface OnShufflesItemPositionChangeListener<T> {
+        class OnShufflesItemPositionChangeArgs<T> {
+            private T beforeSwap;
+            private T afterSwap;
+            private int fromPos;
+            private int toPos;
 
-            public List<?> getBeforeSwap() {
+            public T getBeforeSwap() {
                 return beforeSwap;
             }
 
-            public List<?> getAfterSwap() {
+            public T getAfterSwap() {
                 return afterSwap;
             }
 
+            public int getFromPos() {
+                return fromPos;
+            }
+
+            public int getToPos() {
+                return toPos;
+            }
         }
 
         void OnShufflesItemPositionChange(OnShufflesItemPositionChangeArgs args);
@@ -49,24 +58,16 @@ public class Shuffles<T> extends ArrayList<T> {
         }
     }
 
-    public void setOnItemPositionChangeListener(@Nullable OnShufflesItemPositionChangeListener listener) {
+    public void setOnShufflesItemPositionChangeListener(@Nullable OnShufflesItemPositionChangeListener listener) {
         mOnShufflesItemPositionChangeListener = listener;
     }
 
-    public Shuffles<T> roll(int times) throws IllegalArgumentException {
-        return roller(new Shuffles<T>(this), times);
-    }
-
-    public Shuffles<T> roll() {
-        return roll(1);
-    }
-
-    public void insideRoll(int times) throws IllegalArgumentException {
+    public void roll(int times) throws IllegalArgumentException {
         roller(this, times);
     }
 
-    public void insideRoll() {
-        insideRoll(1);
+    public void roll() {
+        roll(1);
     }
 
     public T pick() {
@@ -91,14 +92,14 @@ public class Shuffles<T> extends ArrayList<T> {
     }
 
     @Nullable
-    private Shuffles<T> roller(@NonNull Shuffles<T> objects, int times) throws IllegalArgumentException {
+    private synchronized Shuffles<T> roller(@NonNull Shuffles<T> objects, int times) throws IllegalArgumentException {
         if (objects.size() < 2) {
-            Log.w("Shuffles", "Not enough objects to roll, must be more than 1. Nothing happend.");
+            Log.w("Shuffles", "Not enough objects to rollOutside, must be more than 1. Nothing happend.");
             return objects;
         }
 
         if (times < 1) {
-            throw new IllegalArgumentException("Can't roll up less than 1 times.");
+            throw new IllegalArgumentException("Can't rollOutside up less than 1 times.");
         }
 
         OnShufflesItemPositionChangeListener.OnShufflesItemPositionChangeArgs changeArgs = new OnShufflesItemPositionChangeListener.OnShufflesItemPositionChangeArgs();
@@ -107,9 +108,14 @@ public class Shuffles<T> extends ArrayList<T> {
 
         for (int i = 0; i < times; i++) {
             Random random = new Random();
+            T temp;
             int from = random.nextInt(objects.size());
             int to = random.nextInt(objects.size());
-            T temp;
+
+            while (from == to) {
+                // ensure that 'from' is different than 'to'.
+                to = random.nextInt(objects.size());
+            }
 
             // fill the temp with the dest object
             temp = objects.get(to);
@@ -119,7 +125,10 @@ public class Shuffles<T> extends ArrayList<T> {
             objects.set(from, temp);
 
             // set the structure after swap to this
-            changeArgs.afterSwap = (objects);
+            changeArgs.beforeSwap = objects.get(from);
+            changeArgs.afterSwap = objects.get(to);
+            changeArgs.fromPos = from;
+            changeArgs.toPos = to;
 
             if (mOnShufflesItemPositionChangeListener != null) {
                 // cast signal to OnShufflesItemPositionChangeListener
